@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativePrac'
+
+include ':app'
